@@ -1,0 +1,16 @@
+ul {
+    padding-left: 30px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+ }
+ ol {
+    padding-left: 30px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+ }
+ a {
+    color: #930404;
+}
+a:hover{
+    color: blueviolet;
+}
